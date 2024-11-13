@@ -1,0 +1,10 @@
+<svg id="finance" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="report" transform="translate(3 2.999)">
+    <rect id="Rectangle_163285" data-name="Rectangle 163285" width="10.5" height="2.625" transform="translate(13.125 23.625)" fill="#fff"/>
+    <rect id="Rectangle_163286" data-name="Rectangle 163286" width="15.75" height="2.625" transform="translate(13.125 17.062)" fill="#fff"/>
+    <rect id="Rectangle_163287" data-name="Rectangle 163287" width="6.562" height="2.625" transform="translate(13.125 30.187)" fill="#fff"/>
+    <path id="Path_106042" data-name="Path 106042" d="M32.812,6.562H28.875V5.25A2.625,2.625,0,0,0,26.25,2.625H15.75A2.625,2.625,0,0,0,13.125,5.25V6.562H9.187A2.625,2.625,0,0,0,6.562,9.187V36.75a2.625,2.625,0,0,0,2.625,2.625H32.812a2.625,2.625,0,0,0,2.625-2.625V9.187A2.625,2.625,0,0,0,32.812,6.562ZM15.75,5.25h10.5V10.5H15.75Zm17.062,31.5H9.187V9.187h3.937v3.937h15.75V9.187h3.937Z" fill="#fff"/>
+    <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" width="42" height="42" fill="none"/>
+  </g>
+  <rect id="_Transparent_Rectangle_2" data-name="&lt;Transparent Rectangle&gt;" width="48" height="48" fill="none"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "watch:sass": "node-sass -w assets/scss/style.scss assets/scss/colors.scss",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

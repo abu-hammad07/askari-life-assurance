@@ -1,0 +1,46 @@
+[15-Aug-2024 11:13:35 Europe/Berlin] POST Data: Array
+(
+    [agent_code] => 4419
+    [security_code] => 23835
+)
+
+[15-Aug-2024 11:13:35 Europe/Berlin] Session Data: Array
+(
+    [username] => abu.hammad
+    [email] => hammadkama@gmail.com
+    [UID] => 3
+    [role] => Admin
+    [details_id] => 3
+    [login] => 1
+    [house_number] => 23976
+    [shop_number] => 85477
+    [captcha] => 23835
+)
+
+[15-Aug-2024 11:13:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Database::connect() in E:\xampp\htdocs\askrilife\askari-main-website_1.0\controller\agentInformation.php:94
+Stack trace:
+#0 {main}
+  thrown in E:\xampp\htdocs\askrilife\askari-main-website_1.0\controller\agentInformation.php on line 94
+[15-Aug-2024 11:13:55 Europe/Berlin] POST Data: Array
+(
+    [agent_code] => 4419
+    [security_code] => 38491
+)
+
+[15-Aug-2024 11:13:55 Europe/Berlin] Session Data: Array
+(
+    [username] => abu.hammad
+    [email] => hammadkama@gmail.com
+    [UID] => 3
+    [role] => Admin
+    [details_id] => 3
+    [login] => 1
+    [house_number] => 23976
+    [shop_number] => 85477
+    [captcha] => 38491
+)
+
+[15-Aug-2024 11:13:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Database::connect() in E:\xampp\htdocs\askrilife\askari-main-website_1.0\controller\agentInformation.php:94
+Stack trace:
+#0 {main}
+  thrown in E:\xampp\htdocs\askrilife\askari-main-website_1.0\controller\agentInformation.php on line 94

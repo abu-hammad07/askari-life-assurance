@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Panton";
+  src: url("../fonts/Panton-Regular.otf") format("opentype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Panton";
+  src: url("../fonts/Panton-Bold.otf") format("opentype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Panton";
+  src: url("../fonts/Panton-SemiBold.otf") format("opentype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'jameel-noori-nastaleeq';
+  src: url('https://cdn.jsdelivr.net/gh/tariq-abdullah/urdu-web-font-CDN/JameelNooriNastaleeq.woff') format('woff');
+}
